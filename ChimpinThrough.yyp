@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "181b1de9-57cb-49b7-9c0c-8d4986a5c1f3",
+            "Value": {
+                "id": "ef64e8b5-baab-4823-b468-b67b09aa2e29",
+                "resourcePath": "rooms\\minigame2start\\minigame2start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1882b4e4-dabd-4948-be6e-0aba8d0f036f",
             "Value": {
                 "id": "0788df31-f53a-47eb-a51d-b996fdf2195b",
@@ -67,6 +75,14 @@
             "Value": {
                 "id": "ea05d7b1-2b68-4a13-ad27-83b43fcd43d7",
                 "resourcePath": "objects\\objBanana\\objBanana.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2ade9ef3-bda0-4af3-99df-0d91c9cfed1c",
+            "Value": {
+                "id": "2200c6cd-89f7-4a15-a58e-eb11da18c39d",
+                "resourcePath": "objects\\objBananas\\objBananas.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -119,6 +135,14 @@
             }
         },
         {
+            "Key": "4c19d963-285b-4531-91ad-7493a4931fa7",
+            "Value": {
+                "id": "e6c930c0-3cf5-4c49-a5de-53684ab8ddf6",
+                "resourcePath": "objects\\objMazeGameController\\objMazeGameController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "541fba0a-ec29-4974-98d3-6bdc6207159c",
             "Value": {
                 "id": "7ab9fe89-8239-45c8-a976-7e57c04677e2",
@@ -156,6 +180,14 @@
                 "id": "5c6e05fb-633c-4955-9a0d-a8b79072bd44",
                 "resourcePath": "sprites\\spriteWhatIsPattern\\spriteWhatIsPattern.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "727c6ef2-389d-4014-89e7-bb5cdd60f0d6",
+            "Value": {
+                "id": "90b5c179-4935-427c-8c5e-11695ad6fa95",
+                "resourcePath": "rooms\\minigame2\\minigame2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -207,6 +239,14 @@
             }
         },
         {
+            "Key": "9d879a3f-c0af-44aa-85c5-c2ae5ab90677",
+            "Value": {
+                "id": "6f5a3bf5-0a1d-405e-986b-d2befc076c63",
+                "resourcePath": "sprites\\spriteMazeStart\\spriteMazeStart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a65c68d7-10f7-4fdc-9a96-513afbf66c56",
             "Value": {
                 "id": "abc1d3ad-4f3d-4a01-bb30-d7699aaa80f1",
@@ -239,6 +279,14 @@
             }
         },
         {
+            "Key": "b319941f-e909-4502-be43-a5d0756d5ac7",
+            "Value": {
+                "id": "9cf4f966-7528-4b70-b9c4-604db79405a5",
+                "resourcePath": "objects\\objMazeStartController\\objMazeStartController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bb8f3e85-10cf-47b4-a9a0-c760a3d92310",
             "Value": {
                 "id": "45e8c91a-fd45-4600-8a15-b097bcbc3d34",
@@ -263,11 +311,27 @@
             }
         },
         {
+            "Key": "c4b605ad-a506-4f61-8965-f7129d15dd15",
+            "Value": {
+                "id": "71bab26e-392a-4b3f-8b74-9c970ee08cc4",
+                "resourcePath": "views\\181b1de9-57cb-49b7-9c0c-8d4986a5c1f3-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c5674b7f-7454-4df3-a00a-9f676e9cf647",
             "Value": {
                 "id": "f5d80645-5b6c-4bb2-a89a-27c34b92ad14",
                 "resourcePath": "views\\c5674b7f-7454-4df3-a00a-9f676e9cf647.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c64df148-7275-4dcb-9408-f51c76362dbc",
+            "Value": {
+                "id": "e30fa5c5-c20c-4b33-81c3-366199a5bd4e",
+                "resourcePath": "sprites\\spriteBananas\\spriteBananas.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -348,6 +412,14 @@
                 "id": "58403256-c001-48c1-aa84-7409573b5da8",
                 "resourcePath": "objects\\objMemoryGameController\\objMemoryGameController.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eff075f3-a0f5-466c-ab27-73e318528010",
+            "Value": {
+                "id": "d7ec52c6-7fa8-43a7-8fce-493af3d03c1c",
+                "resourcePath": "sprites\\spriteGo\\spriteGo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
