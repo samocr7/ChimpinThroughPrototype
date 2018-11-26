@@ -8,9 +8,9 @@ global.strength = 5;
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 643EC20D
-/// @DnDArgument : "value" "7"
+/// @DnDArgument : "value" "4"
 /// @DnDArgument : "var" "spd"
-global.spd = 7;
+global.spd = 4;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
