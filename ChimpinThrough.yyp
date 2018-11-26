@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "625c7ec1-eddc-457b-b6dd-dc531684c6c8",
+            "Value": {
+                "id": "f21d64c2-7298-4d3b-ac86-c385cdcbd2c4",
+                "resourcePath": "objects\\objBananas1\\objBananas1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6cd7583e-2897-4587-a3d8-062335b870b5",
             "Value": {
                 "id": "233e8ac3-319c-405d-afe1-52508033e2c5",
