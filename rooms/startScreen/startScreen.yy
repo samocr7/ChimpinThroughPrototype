@@ -2,7 +2,7 @@
 {
     "name": "startScreen",
     "id": "833731fc-c9d9-489d-93d2-159d51bd5118",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

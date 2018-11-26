@@ -2,7 +2,7 @@
 {
     "name": "minigame2start",
     "id": "181b1de9-57cb-49b7-9c0c-8d4986a5c1f3",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

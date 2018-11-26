@@ -2,7 +2,7 @@
 {
     "name": "minigame1_Child_0",
     "id": "5a6edb25-b5f1-49fd-8391-837c35db20aa",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

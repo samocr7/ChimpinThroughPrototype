@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "04f293fd-df00-4df7-9dd8-c65e1cbacc7b",
+            "Value": {
+                "id": "7b14b235-8d8d-48eb-b853-e11c4e5b8a5e",
+                "resourcePath": "sounds\\minigameFail\\minigameFail.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0b9ef807-3e97-4aca-8c07-78c7a97daf02",
             "Value": {
                 "id": "43c774b5-0441-4e79-a9d4-d61f373504d6",
@@ -76,6 +84,14 @@
                 "id": "0788df31-f53a-47eb-a51d-b996fdf2195b",
                 "resourcePath": "views\\1882b4e4-dabd-4948-be6e-0aba8d0f036f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "18e20227-8572-4fc9-bda6-7b1afb49e394",
+            "Value": {
+                "id": "bcce49db-a67f-4dd4-a8de-7de4c2a1c948",
+                "resourcePath": "sounds\\mazeGame\\mazeGame.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -124,6 +140,14 @@
                 "id": "c3f7d905-450d-44fd-8b1d-a8e7d064321c",
                 "resourcePath": "objects\\objBananas\\objBananas.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2b0c31f0-5a6a-4234-9318-cee0e562fb61",
+            "Value": {
+                "id": "f552d88a-e076-4e3f-a2b1-b97a6d0e25c7",
+                "resourcePath": "sounds\\jungleSounds\\jungleSounds.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -263,6 +287,14 @@
             }
         },
         {
+            "Key": "5dd145d6-5729-422d-a1e4-94415130d6a2",
+            "Value": {
+                "id": "b9032662-47aa-46cf-9217-1657a4e249b5",
+                "resourcePath": "sounds\\buttonPressed\\buttonPressed.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "625c7ec1-eddc-457b-b6dd-dc531684c6c8",
             "Value": {
                 "id": "f21d64c2-7298-4d3b-ac86-c385cdcbd2c4",
@@ -284,6 +316,14 @@
                 "id": "14e57a6f-b881-4d95-900f-5ae5aa387697",
                 "resourcePath": "sprites\\spriteWhatIsPattern\\spriteWhatIsPattern.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "72317e5a-cf05-4f0f-b65b-6930084db422",
+            "Value": {
+                "id": "3fab3b41-c2e4-4165-9226-3b918c8b8144",
+                "resourcePath": "sounds\\bananaAcquired\\bananaAcquired.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -412,6 +452,14 @@
                 "id": "cc581a8c-edf0-4b97-b5c8-4f2575bd4acf",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "af5dadd0-ec33-4a87-836f-b23d1269fc30",
+            "Value": {
+                "id": "61d575af-0ace-4373-bc1c-acc3e36675fd",
+                "resourcePath": "sounds\\memoryGame\\memoryGame.yy",
+                "resourceType": "GMSound"
             }
         },
         {

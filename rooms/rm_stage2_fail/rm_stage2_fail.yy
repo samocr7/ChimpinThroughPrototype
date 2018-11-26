@@ -2,7 +2,7 @@
 {
     "name": "rm_stage2_fail",
     "id": "b45fdf8a-2580-4d1d-9a0d-971afa100d93",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
