@@ -14,8 +14,13 @@
         "181b1de9-57cb-49b7-9c0c-8d4986a5c1f3",
         "727c6ef2-389d-4014-89e7-bb5cdd60f0d6",
         "88e0f882-bd2c-4aa9-beec-10f149392c8d",
+<<<<<<< Updated upstream
         "5a6edb25-b5f1-49fd-8391-837c35db20aa",
         "f300233d-0372-4be1-9e88-2433f5bc396d"
+=======
+        "b7b600df-6dc6-4ee5-a069-b7bcf4c2f7d8",
+        "5a6edb25-b5f1-49fd-8391-837c35db20aa"
+>>>>>>> Stashed changes
     ],
     "filterType": "GMRoom",
     "folderName": "rooms",

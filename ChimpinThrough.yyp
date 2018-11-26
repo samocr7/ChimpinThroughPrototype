@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "010940f0-7dae-4e03-8ec1-299982f26e94",
+            "Value": {
+                "id": "afca9f6e-6f58-4a3a-9072-6c78074fd76c",
+                "resourcePath": "sprites\\sprite24\\sprite24.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "012b9d2c-c289-4575-9967-cb966071389b",
             "Value": {
                 "id": "ab9a6d75-3a16-48d7-b53a-c4a45d641155",
@@ -51,6 +59,14 @@
             "Value": {
                 "id": "43c774b5-0441-4e79-a9d4-d61f373504d6",
                 "resourcePath": "objects\\obj_Tower\\obj_Tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0d6cda1f-b462-4295-bdc8-9d1a625b1342",
+            "Value": {
+                "id": "08389393-984a-479c-9d9b-12ca248799c6",
+                "resourcePath": "objects\\obj_damageTxt\\obj_damageTxt.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -92,6 +108,14 @@
                 "id": "bcce49db-a67f-4dd4-a8de-7de4c2a1c948",
                 "resourcePath": "sounds\\mazeGame\\mazeGame.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "191c1655-b909-4522-8e01-f7e8447a0714",
+            "Value": {
+                "id": "7dd00b70-b7cf-4e88-b69d-bf55c929dd0d",
+                "resourcePath": "fonts\\font0\\font0.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -199,10 +223,17 @@
             }
         },
         {
+<<<<<<< Updated upstream
             "Key": "450197be-bb5f-447d-b14b-03a6ce32d618",
             "Value": {
                 "id": "a6c151e7-d989-43e7-a09a-46cecf2f3b7f",
                 "resourcePath": "objects\\obj_StartForTutorial\\obj_StartForTutorial.yy",
+=======
+            "Key": "4344b428-7643-4876-9c92-6315c00bd12e",
+            "Value": {
+                "id": "32a600fb-aa56-43fc-8761-5ac6abb13904",
+                "resourcePath": "objects\\object24\\object24.yy",
+>>>>>>> Stashed changes
                 "resourceType": "GMObject"
             }
         },
@@ -211,6 +242,14 @@
             "Value": {
                 "id": "24cdf03c-dc0e-40ee-bc24-81f9215d379d",
                 "resourcePath": "sprites\\startArrow\\startArrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4b34195e-75a0-456f-9b20-ae869898b2fe",
+            "Value": {
+                "id": "ee930a32-8582-4ab2-9e05-d49d302ecc8a",
+                "resourcePath": "sprites\\NYC_Splash\\NYC_Splash.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -316,6 +355,14 @@
                 "id": "233e8ac3-319c-405d-afe1-52508033e2c5",
                 "resourcePath": "rooms\\rm_stage1_fail\\rm_stage1_fail.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6fc30ccb-b3bc-4c63-b334-990ec91fb82a",
+            "Value": {
+                "id": "ae775b79-dc47-404f-96d8-1268a4f09732",
+                "resourcePath": "sprites\\sprite25\\sprite25.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
