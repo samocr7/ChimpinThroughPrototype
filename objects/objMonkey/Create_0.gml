@@ -25,8 +25,10 @@ grid = 0;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 76F31A26
-/// @DnDArgument : "code" "objMonkey.spd = global.spd;$(13_10)objMonkey.strength = global.strength;$(13_10)objMonkey.anispd = global.anispd;$(13_10)objMonkey.grid = global.grid;"
+/// @DnDArgument : "code" "objMonkey.spd = global.spd;$(13_10)objMonkey.strength = global.strength;$(13_10)objMonkey.anispd = global.anispd;$(13_10)objMonkey.grid = global.grid;$(13_10)show_debug_message("speed: " + string(global.spd));$(13_10)show_debug_message("strength: " + string(global.strength));"
 objMonkey.spd = global.spd;
 objMonkey.strength = global.strength;
 objMonkey.anispd = global.anispd;
 objMonkey.grid = global.grid;
+show_debug_message("speed: " + string(global.spd));
+show_debug_message("strength: " + string(global.strength));
