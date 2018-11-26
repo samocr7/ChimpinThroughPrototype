@@ -1,8 +1,8 @@
 {
-    "id": "e21c74a5-4a38-4a03-a972-02c9a0e91ccb",
+    "id": "1f2c5d55-0881-436a-9f4b-89a2c964752b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objWall1",
+    "name": "obj_Vine",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "be6a6431-8759-4ce5-b4c7-1ba2139807b2",
+    "solid": false,
+    "spriteId": "2255df78-d8ac-4985-98a5-32d2660abe3c",
     "visible": true
 }

@@ -25,3 +25,10 @@ global.grid = 48;
 /// @DnDArgument : "value" "0.5"
 /// @DnDArgument : "var" "anispd"
 global.anispd = 0.5;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 12CE1CA9
+/// @DnDArgument : "value" "2"
+/// @DnDArgument : "var" "Time "
+global.Time  = 2;
