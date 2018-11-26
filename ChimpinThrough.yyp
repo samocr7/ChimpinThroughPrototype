@@ -599,6 +599,14 @@
             }
         },
         {
+            "Key": "cae7a4a3-ea9e-4f5d-9942-927d18025422",
+            "Value": {
+                "id": "51899098-3461-4bee-b25a-ed35091839f4",
+                "resourcePath": "sounds\\endScreen\\endScreen.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "9524975e-95b2-4046-afec-10c7f48ea135",
