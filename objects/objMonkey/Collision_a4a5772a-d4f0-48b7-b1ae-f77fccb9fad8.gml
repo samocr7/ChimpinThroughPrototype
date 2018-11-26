@@ -1,4 +1,15 @@
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 0E6309F4
-speed = 0;
+/// @DnDHash : 569557B0
+/// @DnDArgument : "code" "if (objMonkey.strength > 6)$(13_10){$(13_10)	show_debug_message(objMonkey.spd);$(13_10)	objMonkey.speed = objMonkey.spd;$(13_10)$(13_10)	$(13_10)}$(13_10)else $(13_10){$(13_10)	objMonkey.speed = 0;$(13_10)}"
+if (objMonkey.strength > 6)
+{
+	show_debug_message(objMonkey.spd);
+	objMonkey.speed = objMonkey.spd;
+
+	
+}
+else 
+{
+	objMonkey.speed = 0;
+}
