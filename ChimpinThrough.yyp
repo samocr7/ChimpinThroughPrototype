@@ -39,6 +39,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "181b1de9-57cb-49b7-9c0c-8d4986a5c1f3",
             "Value": {
                 "id": "ef64e8b5-baab-4823-b468-b67b09aa2e29",
@@ -47,6 +48,8 @@
             }
         },
         {
+=======
+>>>>>>> BrianBranch
             "Key": "1882b4e4-dabd-4948-be6e-0aba8d0f036f",
             "Value": {
                 "id": "0788df31-f53a-47eb-a51d-b996fdf2195b",
@@ -111,11 +114,39 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "455ba308-5262-413d-947c-62dce9be5c5e",
+=======
+            "Key": "340288f2-9a65-448b-94de-07b47a475909",
+            "Value": {
+                "id": "709845bb-4038-4c03-b2d2-5bf8fbf3cf49",
+                "resourcePath": "sprites\\sprite8\\sprite8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "37ab60e5-a6aa-4890-9cb9-ac6a22b5e926",
+            "Value": {
+                "id": "a3343a22-de8d-4d3d-a386-a6c88bc80a92",
+                "resourcePath": "objects\\object5\\object5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "38490eb8-0ce7-4ace-8fc6-667fe185b23a",
+>>>>>>> BrianBranch
             "Value": {
                 "id": "98db533b-040b-42ec-b788-987200257e44",
                 "resourcePath": "views\\bb8f3e85-10cf-47b4-a9a0-c760a3d92310-room.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "451e3ed0-fdec-4e18-af6e-9f79d3d3b93a",
+            "Value": {
+                "id": "24cdf03c-dc0e-40ee-bc24-81f9215d379d",
+                "resourcePath": "sprites\\startArrow\\startArrow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,14 +190,22 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "595dfbb7-ec28-4eb4-a277-ad80dffafa3a",
             "Value": {
                 "id": "17f78b70-4e2d-4670-a416-1c08deee8c07",
                 "resourcePath": "objects\\objRedButton\\objRedButton.yy",
+=======
+            "Key": "594bd26a-69a5-41d7-a617-d616c030be35",
+            "Value": {
+                "id": "71f5c44b-f3dc-40d7-b6ef-85ffb6dc69bc",
+                "resourcePath": "objects\\objGod\\objGod.yy",
+>>>>>>> BrianBranch
                 "resourceType": "GMObject"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "6e0d4524-d994-48fe-ac6d-b1e2582c15fc",
             "Value": {
                 "id": "6b1d5ea3-9131-4da7-a15b-fd27b50c2d81",
@@ -187,6 +226,12 @@
             "Value": {
                 "id": "90b5c179-4935-427c-8c5e-11695ad6fa95",
                 "resourcePath": "rooms\\minigame2\\minigame2.yy",
+=======
+            "Key": "833731fc-c9d9-489d-93d2-159d51bd5118",
+            "Value": {
+                "id": "9259d541-d61a-464a-b938-7c7705cd98b4",
+                "resourcePath": "rooms\\startScreen\\startScreen.yy",
+>>>>>>> BrianBranch
                 "resourceType": "GMRoom"
             }
         },
@@ -383,11 +428,19 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "e2443909-d9d2-4f2e-af72-06b98a6f64af",
             "Value": {
                 "id": "24a094c5-b9c4-4015-a08c-bb7d3b6cbcaf",
                 "resourcePath": "rooms\\minigame1_Child_0\\minigame1_Child_0.yy",
                 "resourceType": "GMRoom"
+=======
+            "Key": "e21c74a5-4a38-4a03-a972-02c9a0e91ccb",
+            "Value": {
+                "id": "830dcc3b-cd66-484e-ab26-3cfb9108f169",
+                "resourcePath": "objects\\objWall1\\objWall1.yy",
+                "resourceType": "GMObject"
+>>>>>>> BrianBranch
             }
         },
         {
@@ -407,6 +460,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "e68a7ee8-806e-489d-b31e-6700bc8c6385",
             "Value": {
                 "id": "58403256-c001-48c1-aa84-7409573b5da8",
@@ -419,6 +473,12 @@
             "Value": {
                 "id": "d7ec52c6-7fa8-43a7-8fce-493af3d03c1c",
                 "resourcePath": "sprites\\spriteGo\\spriteGo.yy",
+=======
+            "Key": "f328f3cc-f6e9-42f8-a6be-ea5dfec0be0d",
+            "Value": {
+                "id": "6081b0eb-dc99-4f42-8787-3c9e3ffb0b68",
+                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+>>>>>>> BrianBranch
                 "resourceType": "GMSprite"
             }
         },
