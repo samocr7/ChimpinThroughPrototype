@@ -2,16 +2,16 @@
     "id": "37ab60e5-a6aa-4890-9cb9-ac6a22b5e926",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Start",
+    "name": "obj_StartForStartScreen",
     "eventList": [
         {
-            "id": "7122bf8b-ce17-431e-97bd-195e17326244",
+            "id": "4aec1d79-ac60-4797-ac98-4004f7e40957",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
+            "enumb": 13,
+            "eventtype": 10,
             "m_owner": "37ab60e5-a6aa-4890-9cb9-ac6a22b5e926"
         }
     ],

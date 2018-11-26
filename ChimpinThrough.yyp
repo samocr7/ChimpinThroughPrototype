@@ -186,7 +186,7 @@
             "Key": "37ab60e5-a6aa-4890-9cb9-ac6a22b5e926",
             "Value": {
                 "id": "a3343a22-de8d-4d3d-a386-a6c88bc80a92",
-                "resourcePath": "objects\\obj_Start\\obj_Start.yy",
+                "resourcePath": "objects\\obj_StartForStartScreen\\obj_StartForStartScreen.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -196,6 +196,14 @@
                 "id": "1cd052bd-cea8-4bd0-97e7-7b41c54b9970",
                 "resourcePath": "sprites\\sprite4\\sprite4.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "450197be-bb5f-447d-b14b-03a6ce32d618",
+            "Value": {
+                "id": "a6c151e7-d989-43e7-a09a-46cecf2f3b7f",
+                "resourcePath": "objects\\obj_StartForTutorial\\obj_StartForTutorial.yy",
+                "resourceType": "GMObject"
             }
         },
         {
