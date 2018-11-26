@@ -2,7 +2,7 @@
 {
     "name": "minigame2start",
     "id": "181b1de9-57cb-49b7-9c0c-8d4986a5c1f3",
-    "creationCodeFile": "RoomCreationCode.gml",
+    "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -136,7 +136,7 @@
             "id": "cbd52996-4eea-4e60-bcc8-685b7d993071",
             "assets": [
 {"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_7204DD3A","id": "21c6965f-faf9-4e93-838c-bd16c8a58115","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "9d879a3f-c0af-44aa-85c5-c2ae5ab90677","userdefined_animFPS": false,"x": 32,"y": 160},
-{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_21B2EB49","id": "36cd54b8-49e8-4b73-a2f3-5069ac1bff71","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "59191371-e51e-4bec-ae72-887d089dcae8","userdefined_animFPS": false,"x": 32,"y": 0}
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_21B2EB49","id": "36cd54b8-49e8-4b73-a2f3-5069ac1bff71","animationFPS": 30,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "59191371-e51e-4bec-ae72-887d089dcae8","userdefined_animFPS": false,"x": 32,"y": 0}
             ],
             "depth": 0,
             "grid_x": 32,

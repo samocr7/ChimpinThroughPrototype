@@ -1,5 +1,5 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 3B4CCDC7
-/// @DnDArgument : "code" "objGreenButton.sprite_index = spriteGreenButtonGlow;"
+/// @DnDHash : 49E305A5
+/// @DnDArgument : "code" "objGreenButton.sprite_index = spriteGreenButtonGlow;$(13_10)"
 objGreenButton.sprite_index = spriteGreenButtonGlow;

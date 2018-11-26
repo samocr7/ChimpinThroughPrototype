@@ -8,9 +8,9 @@ global.strength = 5;
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 643EC20D
-/// @DnDArgument : "value" "4"
+/// @DnDArgument : "value" "7"
 /// @DnDArgument : "var" "spd"
-global.spd = 4;
+global.spd = 7;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
@@ -28,7 +28,7 @@ global.anispd = 0.5;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
-/// @DnDHash : 12CE1CA9
+/// @DnDHash : 37395CD7
 /// @DnDArgument : "value" "2"
-/// @DnDArgument : "var" "Time "
-global.Time  = 2;
+/// @DnDArgument : "var" "dexerity"
+global.dexerity = 2;
