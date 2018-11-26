@@ -1,8 +1,8 @@
 {
-    "id": "862c2321-3238-49c0-8145-7aad33a3ac55",
+    "id": "e21c74a5-4a38-4a03-a972-02c9a0e91ccb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objWall",
+    "name": "objWall1",
     "eventList": [
         
     ],
