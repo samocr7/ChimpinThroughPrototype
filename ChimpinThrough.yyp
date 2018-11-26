@@ -223,17 +223,10 @@
             }
         },
         {
-<<<<<<< Updated upstream
             "Key": "450197be-bb5f-447d-b14b-03a6ce32d618",
             "Value": {
                 "id": "a6c151e7-d989-43e7-a09a-46cecf2f3b7f",
                 "resourcePath": "objects\\obj_StartForTutorial\\obj_StartForTutorial.yy",
-=======
-            "Key": "4344b428-7643-4876-9c92-6315c00bd12e",
-            "Value": {
-                "id": "32a600fb-aa56-43fc-8761-5ac6abb13904",
-                "resourcePath": "objects\\object24\\object24.yy",
->>>>>>> Stashed changes
                 "resourceType": "GMObject"
             }
         },
@@ -422,14 +415,6 @@
             }
         },
         {
-            "Key": "8cc0713e-1eb6-4508-997a-970ec29171cd",
-            "Value": {
-                "id": "62d31d36-4462-482e-989e-bd93ba13ab95",
-                "resourcePath": "views\\833731fc-c9d9-489d-93d2-159d51bd5118-room.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "8d25b833-44ab-42fe-9dfd-ee05d7407f6e",
             "Value": {
                 "id": "35ebeca4-fa9f-4f4c-bcb1-d186fd029843",
@@ -467,14 +452,6 @@
                 "id": "3e774598-87e0-42e8-baa1-d39b24223a74",
                 "resourcePath": "sprites\\spriteMazeStart\\spriteMazeStart.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a180dd74-3289-4b26-aefb-32c341477784",
-            "Value": {
-                "id": "d3f790d3-bf5f-4a83-9ad0-176c571195c8",
-                "resourcePath": "views\\bb8f3e85-10cf-47b4-a9a0-c760a3d92310-room.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -670,10 +647,10 @@
             }
         },
         {
-            "Key": "dff3178a-a31d-4ae0-8ceb-fecda5fb8ed2",
+            "Key": "dfef1ac5-27f9-4dec-8cb5-23623746dec2",
             "Value": {
-                "id": "b4dca0d6-d815-4473-90ba-100dfb832f6b",
-                "resourcePath": "views\\5a6edb25-b5f1-49fd-8391-837c35db20aa-room.yy",
+                "id": "f600fada-3040-448a-999d-30d0a9b86dfd",
+                "resourcePath": "views\\dfef1ac5-27f9-4dec-8cb5-23623746dec2.yy",
                 "resourceType": "GMFolder"
             }
         },
